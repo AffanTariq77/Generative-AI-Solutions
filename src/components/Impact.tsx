@@ -16,7 +16,7 @@ const Impact = () => {
             <p>
               Generative AI is the leverage point between "hiring more people" and "scaling operations."
             </p>
-            <ul className="list-disc pl-6 space-y-2">
+            <ul className="list-disc list-inside space-y-3 text-left max-w-3xl mx-auto">
               <li>Slash Support Costs: Deflect up to 70% of routine inquiries automatically.</li>
               <li>Instant Onboarding: New hires get answers from your AI knowledge base, not your senior engineers.</li>
               <li>Zero Hallucinations: We implement strict guardrails so your AI never invents facts.</li>
