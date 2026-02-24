@@ -12,7 +12,7 @@ const Hero = () => {
           {/* Left: Text */}
           <div className="flex-1 w-full text-left space-y-5 xs:space-y-6 sm:space-y-7 max-w-2xl md:pr-8">
             <h1 className="text-3xl xs:text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight leading-tight md:leading-[1.1]">
-              Turn Generic Models Into Your Company’s<br className="hidden md:block" />
+              Turn Generic Models Into Your Company’s<br />
               Intellectual Engine.
             </h1>
             <p className="text-sm xs:text-base sm:text-lg md:text-2xl text-muted-foreground max-w-xl md:max-w-2xl">
